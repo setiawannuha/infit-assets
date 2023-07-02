@@ -1,5 +1,6 @@
 node_modules
 raw
+.DS_Store
 input.css
 output.css
 package-lock.json
@@ -10,3 +11,5 @@ timeline.css
 02/*
 !01/primary.min.css
 !01/secondary.min.css
+!02/primary.min.css
+!02/secondary.min.css
